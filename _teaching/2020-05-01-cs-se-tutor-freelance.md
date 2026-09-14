@@ -4,7 +4,7 @@ collection: teaching
 type: "Freelance tutoring"
 permalink: /teaching/cs-se-tutor-freelance
 venue: "Private"
-date: 2020-05-01
+date: 2026-09-14
 location: "Hamilton, Ontario, Canada"
 ---
 

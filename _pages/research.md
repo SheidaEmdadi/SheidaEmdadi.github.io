@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## R&D Computer Scientist at Fondation STaBL Foundation
+## R&D Computer Scientist at STaBL Foundation
 
 Research and development of educational tools in computer science.
 
@@ -17,7 +17,7 @@ Department of Computing and Software. Funded by MITACS.
 
 *Jan. 2025 - Apr. 2025*
 
-## Research Intern (Volunteer) at Fondation STaBL Foundation
+## Research Intern (Volunteer) at STaBL Foundation
 
 Voluntary contribution to ongoing research projects.
 
