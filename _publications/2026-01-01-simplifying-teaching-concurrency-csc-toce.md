@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Simplifying Teaching Concurrency with Communicating StateCharts (CSC)"
 collection: publications
 category: manuscripts
@@ -7,6 +7,6 @@ excerpt: 'Extends the CSC notation with the design of a pilot study comparing CS
 date: 2026-01-01
 venue: 'ACM Transactions on Computing Education (TOCE) — under revision for resubmission'
 # citation: 'Sheida Emdadi. &quot;Simplifying Teaching Concurrency with Communicating StateCharts (CSC).&quot; <i>ACM Transactions on Computing Education (TOCE)</i>. Under revision for resubmission.'
----
+--- -->
 
 
