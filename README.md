@@ -15,4 +15,3 @@ Personal academic website, built on the [Academic Pages](https://github.com/acad
 - CV → `_pages/cv.md` (links to the PDF in `files/`)
 - Profile photo → `images/profile.jpg` (replace with a real headshot any time; square images work best)
 
-Push changes to the `main` branch and GitHub Pages rebuilds automatically within a minute or two.
