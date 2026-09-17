@@ -2,7 +2,7 @@
 title: "Communicating StateCharts (CSC)"
 collection: publications
 category: conferences
-permalink: https://dl.acm.org/doi/abs/10.1145/3724389.3731259
+# permalink: https://dl.acm.org/doi/abs/10.1145/3724389.3731259
 excerpt: 'Introduces Communicating Statecharts (CSC), a visual notation designed to make concurrency approachable for novice programmers, along with the CSCDraw model-driven development tool.'
 date: 2025-03-01
 venue: 'ACM Innovation and Technology in Computer Science Education (ITiCSE)'
